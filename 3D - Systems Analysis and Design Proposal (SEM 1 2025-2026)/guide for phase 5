@@ -1,0 +1,71 @@
+The typical maintenance process resembles a miniature version of the systems 
+development life cycle. A systems request for maintenance work is submitted and 
+evaluated. If it is accepted, the request is prioritized and scheduled for the IT group. 
+The maintenance team then follows a logical progression of investigation, analysis, 
+design, development, testing, and implementation.
+ Corrective maintenance projects occur when a user or an IT staff member reports 
+a problem. Standard maintenance procedures usually are followed for relatively 
+minor errors, but work often begins immediately when users report significant errors.
+ In contrast to corrective maintenance, adaptive, perfective, and preventive mainte
+nance projects always follow the organization’s standard maintenance procedures. 
+Adaptive maintenance projects occur in response to user requests for improvements 
+to meet changes in the business or operating environments. The IT staff usually initi
+ates perfective maintenance projects to improve performance or maintainability. 
+Automated program restructuring and reengineering are forms of perfective mainte
+nance. In order to avoid future problems, IT staff perform preventive maintenance, 
+which involves analysis of areas where trouble is likely to occur.
+ A maintenance team consists of one or more systems analysts and programmers. 
+Systems analysts need the same talents and abilities for maintenance work as they use 
+when developing a new system. Many IT departments are organized into separate 
+new development and maintenance groups where staff members are rotated from one 
+group to the other.
+ Configuration management is necessary to handle maintenance requests, to man
+age different versions of the information system, and to distribute documentation 
+changes. Maintenance changes can be implemented as they are completed or a release 
+methodology can be used in which all noncritical maintenance changes are collected 
+and implemented simultaneously. A release methodology usually is cost effective and 
+advantageous for users because they do not have to work with a constantly changing 
+system. Systems analysts use functional, allocated, and product baselines as formal 
+reference points to measure system characteristics at a specific time.
+ System performance measurements include response time, bandwidth, throughput, 
+and turnaround time. Capacity management uses those measurements to forecast 
+what is needed to provide future levels of service and support. Also, CASE tools that 
+include system evaluation and maintenance features can be used during the systems 
+operation, security, and support phase.
+ Security is a vital part of every information system. System security is dependent 
+upon a comprehensive security policy that defines how organizational assets are to be 
+protected and how attacks are to be responded to.
+ Risk management creates a workable security policy by identifying, analyzing, 
+anticipating, and reducing risks to an acceptable level. Because information systems 
+face a wide array of threats and attacks, six separate but interrelated security levels 
+should be analyzed: physical security, network security, application security, file secu
+rity, user security, and procedural security. Physical security concerns the physical 
+environment, including critical equipment located in a computer room, as well as 
+safeguards for servers and desktops throughout the company. Network security 
+involves encryption techniques, as well as private networks and other protective mea
+sures, especially where wireless transmissions are concerned. Application security 
+requires an understanding of services, hardening, application permissions, input vali
+dation techniques, software patches and updates, and software logs. File security 
+involves the use of encryption and permissions, which can be assigned to individual 
+users or to user groups. User security involves identity management techniques, a 
+comprehensive password protection policy, an awareness of social engineering risks, 
+and an effective means of overcoming user resistance. Procedural security involves 
+managerial controls and policies that ensure secure operations.
+Data backup and recovery issues include backup media, backup schedules, and 
+retention periods, as well as backup designs such as RAID and cloud-based 
+backups.
+ All information systems eventually become obsolete. The end of a system’s 
+economic life usually is signaled by rapidly increasing maintenance or operating  
+costs, the availability of new software or hardware, or new requirements that cannot 
+be achieved easily by the existing system. When a certain point is reached, an 
+information system must be replaced, and the entire systems development life cycle 
+begins again.
+ Many IT experts predict intense competition in the future, along with economic, 
+political, and social uncertainty. Facing these challenges, top IT priorities will be  
+the safety and security of corporate operations, environmental concerns, and  
+bottom-line TCO.
+ An IT professional should have a strategic career plan that includes long-term 
+goals and intermediate milestones. An important element of a personal strategic plan 
+is the acquisition of IT credentials and certifications that document specific knowl
+edge and skills. Many IT industry leaders offer certification. In addition to technical 
+ability, other skills, such as critical thinking skills, also are extremely valuable.
